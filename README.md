@@ -22,13 +22,13 @@ with native async support, full type safety via Pydantic, and cost-aware API usa
 ## Installation
 
 ```bash
-uv add openalexpy
+uv add openalex-py
 ```
 
 or
 
 ```bash
-pip install openalexpy
+pip install openalex-py
 ```
 
 Requires Python 3.10+.

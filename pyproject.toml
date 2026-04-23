@@ -1,5 +1,5 @@
 [project]
-name = "openalexpy"
+name = "openalex-py"
 version = "0.1.0"
 description = "Modern async Python library for the OpenAlex API"
 readme = "README.md"

@@ -31,13 +31,13 @@ pipe-able query builder for scholarly data. `openalexpy` builds on those foundat
 ## Installation
 
 ```bash
-pip install openalexpy
+pip install openalex-py
 ```
 
 or with `uv`:
 
 ```bash
-uv add openalexpy
+uv add openalex-py
 ```
 
 Requires Python 3.10+.

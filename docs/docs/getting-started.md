@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-pip install openalexpy
+pip install openalex-py
 ```
 
 ## Configure API Key
